@@ -20,3 +20,10 @@
 - Phase 1: 이전 코드 삭제 불가
 - Phase 2: 개선, 리팩토링만 가능
 
+## ideas
+- modal
+- slider(carousel)
+- bottom sheet
+- 사다리게임
+- vs code extension - sortable explorer
+- 화상채팅
